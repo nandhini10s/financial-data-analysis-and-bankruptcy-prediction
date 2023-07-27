@@ -1,6 +1,8 @@
 FINANCIAL DATA ANALYSIS AND BANKRUPTCY PREDICTION
 This project consists of a financial data analysis and bankruptcy prediction using MySQL and python. MySQL is used for basic financial data analysis and data exploration. Python is used for data cleaning, EDA, data preprocessing, data partitioning and model prediction and evaluation.
+
 FINANCIAL DATA ANALYSIS WITH MYSQL
+
 1.	NUMBER OF COMPANIES BANKRUPT
 2.	NUMBER OF COUNTRIES NOT BANKRUPT
 3.	NUMBER OF COMPANIES WITH A POSITIVE ROA
@@ -18,7 +20,9 @@ FINANCIAL DATA ANALYSIS WITH MYSQL
 15.	HIGH GROWTH COMPANIES THAT HAVE GONE BANKRUPT
 
 BANKRUPTCY PREDICTION MODEL: PYTHON
-LIBRARIES USED- Pandas, Matplotlib, Imblearn, Sklearn 
+
+LIBRARIES USED- Pandas, Matplotlib, Imblearn, Sklearn
+
 The Jupyter Notebook contains descriptive statistics, correlation, data preprocessing, train test split, ML model prediction, model evaluation.
 
 SMOTE (Synthetic Minority Over-sampling Technique) is applied to address the class imbalance problem in the dataset.  PCA (Principal Component Analysis) is used to transform high-dimensional dataset into a lower-dimensional space by retaining 90% of the features. 
