@@ -1,4 +1,5 @@
 FINANCIAL DATA ANALYSIS AND BANKRUPTCY PREDICTION
+
 This project consists of a financial data analysis and bankruptcy prediction using MySQL and python. MySQL is used for basic financial data analysis and data exploration. Python is used for data cleaning, EDA, data preprocessing, data partitioning and model prediction and evaluation.
 
 FINANCIAL DATA ANALYSIS WITH MYSQL
