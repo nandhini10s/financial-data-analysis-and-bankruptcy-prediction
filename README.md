@@ -16,8 +16,9 @@ FINANCIAL DATA ANALYSIS WITH MYSQL
 13.	NUMBER OF COMPANIES HAVING TOTAL ASSET TURNOVER GREATER THAN 0.3 AND BORROWING DEPENDENCY GREATER THAN 0.5
 14.	CREATE A VIEW NAMED "HighGrowthCompanies" THAT INCLUDES COMPANY ID, REALIZED SALES GROSS PROFIT GROWTH RATE, TOTAL ASSET GROWTH RATE FOR COMPANIES WITH A TOTAL ASSET GROWTH RATE GREATER THAN 0.5 AND REALIZED SALES GROSS PROFIT GROWTH RATE GREATER THAN 0.03
 15.	HIGH GROWTH COMPANIES THAT HAVE GONE BANKRUPT
+
 BANKRUPTCY PREDICTION MODEL: PYTHON
 LIBRARIES USED- Pandas, Matplotlib, Imblearn, Sklearn 
 The Jupyter Notebook contains descriptive statistics, correlation, data preprocessing, train test split, ML model prediction, model evaluation.
-SMOTE (Synthetic Minority Over-sampling Technique) is applied to address the class imbalance problem in the dataset.  PCA (Principal Component Analysis) is used to transform high-dimensional dataset into a lower-dimensional space by retaining 90% of the features.
-The train test split and model prediction provide the credit card approval predicted value which is in turn used to depict the accuracy score, confusion matrix and an overall classification report. 
+
+SMOTE (Synthetic Minority Over-sampling Technique) is applied to address the class imbalance problem in the dataset.  PCA (Principal Component Analysis) is used to transform high-dimensional dataset into a lower-dimensional space by retaining 90% of the features. 
