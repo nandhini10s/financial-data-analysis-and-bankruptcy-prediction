@@ -22,8 +22,8 @@ FINANCIAL DATA ANALYSIS WITH MYSQL
 
 BANKRUPTCY PREDICTION MODEL: PYTHON
 
-LIBRARIES USED- Pandas, Matplotlib, Imblearn, Sklearn
+LIBRARIES USED- Numpy, Pandas, Sklearn
 
 The Jupyter Notebook contains descriptive statistics, correlation, data preprocessing, train test split, ML model prediction, model evaluation.
 
-SMOTE (Synthetic Minority Over-sampling Technique) is applied to address the class imbalance problem in the dataset.  PCA (Principal Component Analysis) is used to transform high-dimensional dataset into a lower-dimensional space by retaining 90% of the features. 
+Undersampling technique is applied to address the class imbalance problem in the dataset. LDA (Linear Discriminant Analysis) is used to transform high-dimensional dataset into a lower-dimensional space by retaining top 30% of the features that explain the target. 
